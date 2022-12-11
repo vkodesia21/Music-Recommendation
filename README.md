@@ -1,4 +1,4 @@
-# Music Recommendation system using Spotify Ddataset
+# Music Recommendation system using Spotify Dataset
 
 
 ## Introduction
